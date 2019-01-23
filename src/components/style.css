@@ -1,0 +1,35 @@
+.search {
+  min-height: calc(100vh - 700px);
+  padding: 50px
+}
+.card{
+    min-height: calc(100vh - 300px);
+    background-color: #D0D3D4
+
+}
+.image{
+  /* height: calc(100vh - 400px); */
+  padding: 10px ;
+  width:100%;
+  height: 70%;
+}
+.txt{
+  font-size: 30px;
+}
+.repos{
+  padding: 20px;
+  font-size: 20px
+}
+.follow{
+  font-size: 20px;
+}
+.input{
+  background-color: #D0D3D4
+
+}
+.notfound{
+  text-align :center;
+  margin :0 auto;
+  padding :1rem;
+  color:#D0D3D4
+}
